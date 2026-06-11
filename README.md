@@ -1,2 +1,3 @@
 # Simple_calc
-Simple calculator using java loops and conditions
+Simple calculator using java switch cases and operators
+
